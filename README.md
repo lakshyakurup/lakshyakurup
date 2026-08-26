@@ -17,11 +17,20 @@
 
 ---
 
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=lakshyakurup&theme=onedark&column=6&margin-w=15" width="100%" />
+
+---
+
 ### 📊 GitHub Stats & Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshyakurup&theme=tokyonight&hide_border=true" width="98%" />
 </p>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshyakurup&theme=react-dark&hide_border=true" width="98%" />
 
 </div>
 
