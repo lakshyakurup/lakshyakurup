@@ -17,20 +17,20 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=lakshyakurup&theme=onedark&column=6&margin-w=15" width="100%" />
+### 🏆 GitHub Profile Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshyakurup&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyakurup&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 ---
 
-### 📊 GitHub Stats & Streak
+### 📊 Commit Activity & Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshyakurup&theme=tokyonight&hide_border=true" width="98%" />
 </p>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshyakurup&theme=react-dark&hide_border=true" width="98%" />
 
 </div>
 
