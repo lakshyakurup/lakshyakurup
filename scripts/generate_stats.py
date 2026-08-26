@@ -1,0 +1,14 @@
+import requests
+import json
+import os
+
+# Create local stat card SVG
+svg_content = """<svg width="400" height="120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" rx="10" fill="#1a1b26"/>
+  <text x="20" y="35" font-family="Segoe UI, sans-serif" font-size="16" font-weight="bold" fill="#7aa2f7">🏆 Lakshya's GitHub Profile Status</text>
+  <text x="20" y="65" font-family="Segoe UI, sans-serif" font-size="14" fill="#a9b1d6">• Backend Workflow: Active</text>
+  <text x="20" y="90" font-family="Segoe UI, sans-serif" font-size="14" fill="#9ece6a">• Automated SVG Generator: Running</text>
+</svg>"""
+
+with open("profile-stats.svg", "w") as f:
+    f.write(svg_content)

@@ -17,16 +17,12 @@
 
 ---
 
-### 🏆 GitHub Profile Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshyakurup&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyakurup&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+### ⚡ Automated Backend Status
+<img src="./profile-stats.svg" width="400" />
 
 ---
 
-### 📊 Commit Activity & Streak
+### 📊 Streak & Commit Metrics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshyakurup&theme=tokyonight&hide_border=true" width="98%" />
