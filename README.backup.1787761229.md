@@ -16,7 +16,7 @@
 
 ---
 
-## 👋 Hey, I'm Lakshya Kurup
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hey, I'm Lux
 
 - 🎓  BSc Computer Science @ **St. Xavier's College, Mumbai**
 - 💻  Frontend & Full-Stack dev — **React, Next.js (App Router), TypeScript, Python**
