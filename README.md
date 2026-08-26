@@ -45,7 +45,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshyakurup&theme=tokyonight&hide_border=true&background=0D1117&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71" />
+  <img src="https://streak-stats.demolab.com/?user=lakshyakurup&theme=tokyonight&hide_border=true&background=0D1117&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71" />
 </div>
 
 <div align="center">
