@@ -20,12 +20,12 @@
 
 ---
 
-## 👋 Hey, I'm Lakshya
+## 👋 Hey, I'm Lakshya Kurup
 
 - 🎓 BSc Computer Science @ **St. Xavier's College, Mumbai** (2025 – 2027)
 - 💻 Frontend & Full-Stack — **React, Next.js (App Router), TypeScript, Python**
 - ☁️ **AWS Certified Cloud Practitioner** — cloud-native design & solution architecture
-- 🔭 Currently building **NeuroJob AI**, **CrowdMap** and a **Mumbai Local Train Delay Tracker**
+- 🔭 Currently building **atsync-ai**, **NoteForge**, and **gitsnap-cli**
 - 🌱 Leveling up on **ML / Data Science** (Pandas, Scikit-learn) + system design
 - 📈 Connected with 500+ professionals on LinkedIn
 - 📱 Content creator sharing tech journeys and building in public
@@ -47,11 +47,11 @@
 
 | Project | Stack | What it does |
 | :--- | :--- | :--- |
+| **[atsync-ai](https://github.com/lakshyakurup/atsync-ai)** | TypeScript · AI | An AI-powered Applicant Tracking & Resume Intelligence Platform designed to parse resumes against job descriptions, extract missing keywords, and provide Gemini-driven optimization metrics. |
+| **[NoteForge](https://github.com/lakshyakurup/noteforge)** | AI · Tool | AI-powered learning tool that transforms study notes into interactive quizzes, concept explanations, and personalized revision content. |
+| **[gitsnap-cli](https://github.com/lakshyakurup/gitsnap-cli)** | JavaScript · CLI | A lightweight CLI tool that snapshots git status, diffs, and context into clean Markdown formatted for AI prompts. |
 | **[NeuroJob AI](https://github.com/lakshyakurup/neurojob-ai)** | Next.js · TypeScript · Gemini API | AI job-application assistant — scores resume match against a JD, generates tailored cover letters, predicts interview questions. |
-| **[CrowdMap](https://github.com/lakshyakurup/crowdmap)** | Next.js · Python · ML | Live crowd & traffic intelligence for city teams — blends community reports, live signals and historical data to predict how crowded a place will be. |
 | **[Mumbai Local Delay Tracker](https://github.com/lakshyakurup/mumbai-local-delay-tracker)** | Next.js · TypeScript · REST | Tracks and visualises delays across the Central, Western and Harbour lines, parsing raw updates into clean delay insights. |
-| **[Standby Mode Clock](https://github.com/lakshyakurup/standby-clock)** | Next.js (App Router) · TypeScript | iOS Standby Mode recreated for OLED displays — night mode, weather API routes, theme controls. |
-| **[Uptime Monitor Toolkit](https://github.com/lakshyakurup/uptime-monitor)** | Python · CLI | Automation CLI for uptime checks, file organisation and notification summaries. |
 
 ---
 
