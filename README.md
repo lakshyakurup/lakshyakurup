@@ -5,6 +5,12 @@
 </p>
 
 <div align="center">
+  <a href="https://github.com/lakshyakurup">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2ECC71&center=true&vCenter=true&width=650&lines=Co-Founder+%40+ScamShield;Scaling+to+500%2B+Elite+Connections;Frontend+%26+Full-Stack+Disruptor;Architecting+Cloud-Native+Ecosystems" alt="Typing Animation" />
+  </a>
+</div>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/lakshyakurup">
     <img src="https://img.shields.io/badge/LinkedIn-500%2B%20Connections-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn 500+ Connections" />
   </a>
