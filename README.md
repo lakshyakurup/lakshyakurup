@@ -28,6 +28,7 @@
 - 🔭 Currently building **NeuroJob AI**, **CrowdMap** and a **Mumbai Local Train Delay Tracker**
 - 🌱 Leveling up on **ML / Data Science** (Pandas, Scikit-learn) + system design
 - 📈 Connected with 500+ professionals on LinkedIn
+- 📱 Content creator sharing tech journeys and building in public
 - 📫 Reach me at **kuruplakshya@icloud.com**
 
 ---
@@ -54,13 +55,14 @@
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Achievements
 
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner" />
   <img src="https://img.shields.io/badge/Harvard-CS50x-A51C30?style=flat-square&logo=harvard&logoColor=white" alt="Harvard CS50x" />
   <img src="https://img.shields.io/badge/freeCodeCamp-Scientific%20Computing%20with%20Python-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white" alt="freeCodeCamp Scientific Computing with Python" />
   <img src="https://img.shields.io/badge/BCG-Data%20Science%20Program-00A650?style=flat-square" alt="BCG Data Science Virtual Experience" />
+  <img src="https://img.shields.io/badge/Anthropic-Model%20Context%20Protocol-8A2BE2?style=flat-square" alt="Claude Academy MCP" />
 </div>
 
 ---
