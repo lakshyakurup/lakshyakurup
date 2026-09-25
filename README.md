@@ -31,7 +31,22 @@
 
 ---
 
-## Tech Stack
+## 📊 Activity & Performance Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=lakshyakurup&show_icons=true&theme=github_dark&count_private=true&hide_border=true" width="48%" alt="Lakshya's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyakurup&layout=compact&theme=github_dark&hide_border=true" width="48%" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshyakurup&theme=github_dark&hide_border=true" width="98%" alt="GitHub Streak Stats" />
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,html,css&theme=dark" alt="JavaScript, TypeScript, Python, C, C++, HTML, CSS" /><br/>
@@ -41,9 +56,9 @@
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-| Project | Stack | Description |
+| Project | Tech Stack | Role / Core Deliverable |
 | :--- | :--- | :--- |
 | **[atsync-ai](https://github.com/lakshyakurup/atsync-ai)** | TypeScript · Gemini API | AI-powered Applicant Tracking & Resume Intelligence Platform designed to parse resumes against job descriptions, extract missing keywords, and provide optimization metrics. |
 | **[NoteForge](https://github.com/lakshyakurup/noteforge)** | AI · Tool | AI-powered learning tool that transforms study notes into interactive quizzes, concept explanations, and personalized revision content. |
@@ -54,7 +69,18 @@
 
 ---
 
-## Certifications & Training
+## 💼 Practical Experience Overview
+
+| Role | Organization | Core Responsibilities |
+| :--- | :--- | :--- |
+| **Co-Founder** | ScamShield | Architected full-stack threat detection engine with FastAPI, Next.js 16, and Pydantic. |
+| **Full Stack Engineer** | Open Source / GitHub | Shipped AI applications, Python CLI toolkits, and web dashboards. |
+| **Data Analyst Intern** | Bluestock Fintech | Cleaned, merged, and analyzed financial datasets using Python (Pandas) & SQL. |
+| **Embedded & IoT Intern** | UpSkill Campus / UniConverge | Programmed microcontroller hardware in Embedded C and built data dashboards. |
+
+---
+
+## 📜 Certifications & Achievements
 
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner" />
