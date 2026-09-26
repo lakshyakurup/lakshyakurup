@@ -105,9 +105,23 @@
 
 ---
 
-<!-- Animated 10-Quote Sequence -->
+## 💬 Words to Code By
+
 <div align="center">
   <a href="https://github.com/lakshyakurup">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=2000&color=2ECC71&center=true&vCenter=true&width=750&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22Simplicity+is+prerequisite+for+reliability.%22;%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22;%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it’s+bad.%22;%22The+best+way+to+predict+the+future+is+to+invent+it.%22;%22Talk+is+cheap.+Show+me+the+code.%22;%22Clean+code+always+looks+like+it+was+written+by+someone+who+cares.%22;%22Software+is+a+great+combination+between+art+and+engineering.%22;%22Any+fool+can+write+code+that+a+computer+can+understand.%22;%22Fix+the+cause%2C+not+the+symptom.%22" alt="10 Engineering Quotes" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1500&color=2ECC71&center=true&vCenter=true&width=600&lines=First%2C+solve+the+problem.+Then%2C+write+the+code.;Simplicity+is+prerequisite+for+reliability.;Make+it+work%2C+make+it+right%2C+make+it+fast." alt="Engineering Principles" />
   </a>
 </div>
+
+<br/>
+
+> 1. *"First, solve the problem. Then, write the code."* — **John Johnson**  
+> 2. *"Simplicity is prerequisite for reliability."* — **Edsger W. Dijkstra**  
+> 3. *"Make it work, make it right, make it fast."* — **Kent Beck**  
+> 4. *"Code is like humor. When you have to explain it, it’s bad."* — **Cory House**  
+> 5. *"The best way to predict the future is to invent it."* — **Alan Kay**  
+> 6. *"Talk is cheap. Show me the code."* — **Linus Torvalds**  
+> 7. *"Clean code always looks like it was written by someone who cares."* — **Robert C. Martin**  
+> 8. *"Software is a great combination between art and engineering."* — **Bill Gates**  
+> 9. *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* — **Martin Fowler**  
+> 10. *"Fix the cause, not the symptom."* — **Steve Maguire**
