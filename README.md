@@ -4,6 +4,7 @@
   Frontend & Full-Stack Developer &nbsp;·&nbsp; Computer Science Student @ St. Xavier's College &nbsp;·&nbsp; AWS Certified Cloud Practitioner &nbsp;·&nbsp; Mumbai, India
 </p>
 
+<!-- Header Animated Typing -->
 <div align="center">
   <a href="https://github.com/lakshyakurup">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2ECC71&center=true&vCenter=true&width=650&lines=Frontend+%26+Full-Stack+Developer;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Python;AWS+Certified+Cloud+Practitioner;Building+full-stack+%26+cloud+projects" alt="Frontend & Full-Stack Developer — React, Next.js, TypeScript, Python" />
@@ -21,6 +22,11 @@
 ---
 
 ## About Me
+
+<div align="center">
+  <!-- Animated Mission Statement -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=A9DFBF&center=true&vCenter=true&width=700&lines=Engineering+production-ready+web+apps+%26+AI+tools;Focusing+on+cloud-native+architecture+%26+system+automation;Passionate+about+clean+code%2C+performance%2C+and+UX" alt="Mission Statement" />
+</div>
 
 - 🎓 **Computer Science Student** at St. Xavier's College, Mumbai (2025 – 2027)
 - 💻 **Co-Founder** at ScamShield — built an explainable threat detection platform using Next.js 16, TypeScript, FastAPI, and Pydantic
@@ -67,6 +73,11 @@
 
 ## 🚀 Featured Projects
 
+<div align="center">
+  <!-- Animated Highlight of Core Projects -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Featured%3A+atsync-ai+%C2%B7+AI+Resume+Intelligence;Featured%3A+NoteForge+%C2%B7+Interactive+AI+Study+Notes;Featured%3A+gitsnap-cli+%C2%B7+Markdown+Prompt+Generator;Featured%3A+ScamShield+%C2%B7+Real-time+Threat+Detection" alt="Featured Highlights" />
+</div>
+
 | Project | Tech Stack | Role / Core Deliverable |
 | :--- | :--- | :--- |
 | **[atsync-ai](https://github.com/lakshyakurup/atsync-ai)** | TypeScript · Gemini API | AI-powered Applicant Tracking & Resume Intelligence Platform designed to parse resumes against job descriptions, extract missing keywords, and provide optimization metrics. |
@@ -102,6 +113,9 @@
 
 ---
 
+<!-- Animated Footer Quote -->
 <div align="center">
-  <i>"First, solve the problem. Then, write the code."</i>
+  <a href="https://github.com/lakshyakurup">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=3000&color=2ECC71&center=true&vCenter=true&width=500&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22" alt="First, solve the problem. Then, write the code." />
+  </a>
 </div>
