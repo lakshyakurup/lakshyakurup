@@ -37,37 +37,25 @@
 
 ---
 
-## 📈 Activity & Languages
+## 🛠️ Tech Stack & Capabilities
 
 <div align="center">
-  <!-- Contribution Activity Line Graph -->
-  <a href="https://github.com/lakshyakurup">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshyakurup&theme=github-dark&hide_border=true&area=true" width="100%" alt="Lakshya's Contribution Graph" />
-  </a>
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp,html,css&theme=dark" alt="TypeScript, JavaScript, Python, C, C++, HTML, CSS" /><br/>
+  <!-- Frameworks & Core Web -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,fastapi&theme=dark" alt="React, Next.js, Tailwind CSS, Node.js, Express, FastAPI" /><br/>
+  <!-- Cloud, Databases & Tooling -->
+  <img src="https://skillicons.dev/icons?i=aws,postgres,mongodb,supabase,docker,git,github,vscode,postman,figma&theme=dark" alt="AWS, PostgreSQL, MongoDB, Supabase, Docker, Git, GitHub, VS Code, Postman, Figma" />
 </div>
 
 <br/>
 
-<div align="center">
-  <!-- Top Languages Graph -->
-  <a href="https://github.com/lakshyakurup">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyakurup&layout=compact&theme=github_dark&hide_border=true&hide=html,css" width="48%" alt="Top Languages" />
-  </a>
-  <!-- GitHub Overview Stats Card -->
-  <a href="https://github.com/lakshyakurup">
-    <img src="https://github-readme-stats.vercel.app/api?username=lakshyakurup&show_icons=true&theme=github_dark&count_private=true&hide_border=true" width="48%" alt="GitHub Overview" />
-  </a>
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,html,css&theme=dark" alt="JavaScript, TypeScript, Python, C, C++, HTML, CSS" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express&theme=dark" alt="React, Next.js, Tailwind, Node.js, Express" /><br/>
-  <img src="https://skillicons.dev/icons?i=aws,postgres,mongodb,git,github,vscode,postman&theme=dark" alt="AWS, PostgreSQL, MongoDB, Git, GitHub, VS Code, Postman" />
-</div>
+| Domain | Core Competencies |
+| :--- | :--- |
+| **Frontend Architecture** | Next.js (App Router), React, TypeScript, Tailwind CSS, Component-Driven Design, Responsive UI/UX |
+| **Backend & APIs** | Node.js, Express, FastAPI, Python, REST APIs, JSON Parsing, Prompt Engineering, Pydantic |
+| **Cloud & DevOps** | AWS (EC2, S3, ELB), Serverless Architectures, Vercel Deployments, Git/GitHub Actions, Docker |
+| **Data & Systems** | PostgreSQL, Supabase, MongoDB, Pandas, Scikit-learn, C/C++, Embedded C, IoT Hardware |
 
 ---
 
@@ -89,33 +77,37 @@
 
 ---
 
-## 💼 Practical Experience Overview
+## 💼 Work & Engineering Experience
 
-| Role | Organization | Core Responsibilities |
-| :--- | :--- | :--- |
-| **Co-Founder** | ScamShield | Architected full-stack threat detection engine with FastAPI, Next.js 16, and Pydantic. |
-| **Full Stack Engineer** | Open Source / GitHub | Shipped AI applications, Python CLI toolkits, and web dashboards. |
-| **Data Analyst Intern** | Bluestock Fintech | Cleaned, merged, and analyzed financial datasets using Python (Pandas) & SQL. |
-| **Embedded & IoT Intern** | UpSkill Campus / UniConverge | Programmed microcontroller hardware in Embedded C and built data dashboards. |
-
----
-
-## 📜 Certifications & Achievements
-
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner" />
-  <img src="https://img.shields.io/badge/Harvard-CS50x-A51C30?style=flat-square&logo=harvard&logoColor=white" alt="Harvard CS50x" />
-  <img src="https://img.shields.io/badge/Anthropic-Claude%20Academy%20MCP-8A2BE2?style=flat-square" alt="Anthropic Claude Academy MCP" />
-  <img src="https://img.shields.io/badge/freeCodeCamp-Scientific%20Computing%20with%20Python-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white" alt="freeCodeCamp Scientific Computing with Python" />
-  <img src="https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white" alt="freeCodeCamp Responsive Web Design" />
-  <img src="https://img.shields.io/badge/Apple-Apple%20Ads%20Certified-000000?style=flat-square&logo=apple&logoColor=white" alt="Apple Ads Certified" />
-</div>
+| Role | Organization | Period | Core Responsibilities & Impact |
+| :--- | :--- | :--- | :--- |
+| **Co-Founder** | ScamShield | Aug 2026 – Present | Architected a full-stack engine using Next.js 16, TypeScript, FastAPI, and Pydantic for real-time threat detection and explainable security scoring. |
+| **Full Stack Engineer** | GitHub / Open Source | Jan 2024 – Present | Shipped production AI tools, CLI automation utilities, and responsive web platforms maintained across public repositories. |
+| **Web Development Intern** | Oasis Infobyte | Sep 2026 – Present | Engineered responsive, component-driven UI using React, JavaScript, and modern CSS architecture aligned with mobile-first standards. |
+| **Data Analyst Intern** | Bluestock Fintech | May 2026 – Jul 2026 | Performed data cleaning, validation, and exploratory analytics on financial datasets using Python (Pandas) and SQL queries. |
+| **Embedded & IoT Intern** | UpSkill Campus / UniConverge | Jan 2026 – Mar 2026 | Programmed microcontrollers in Embedded C and constructed end-to-end telemetry pipelines to live monitoring dashboards. |
+| **Frontend Developer Intern** | LearnCodeOnline.in | Nov 2024 – Feb 2025 | Refactored legacy UI components in an Agile Git workflow, improving render consistency and cross-device performance. |
 
 ---
 
-<!-- Animated Footer Quote -->
+## 📜 Certifications & Credentials
+
+| Credential / Program | Issuing Authority | Date / ID | Domain |
+| :--- | :--- | :--- | :--- |
+| **Claude Academy: Model Context Protocol (Advanced)** | Anthropic | Aug 2026 `8dd74d2aff7636d2e16bc4853dd16a0b` | AI Architecture & Protocol Design |
+| **AWS Solutions Architecture Virtual Experience** | AWS / Forage | Nov 2025 | Scalable Cloud Infrastructure & Security |
+| **CS50x – Computer Science & Software Development** | Harvard University | Oct 2025 | Computer Science & Software Engineering |
+| **Apple Ads Certified** | Apple | Sep 2025 | Digital Platform Analytics |
+| **Electric Vehicle Technology Intern Certificate** | Codec Technologies | Sep 2025 `CORPORATE6759d549ce59e1733940553` | EV Systems & Project Management |
+| **Scientific Computing with Python** | freeCodeCamp | Jun 2025 `kuruplakshya-scwp` | Python & Algorithm Design |
+| **Responsive Web Design V8** | freeCodeCamp | Jun 2025 `kuruplakshya-rwd` | Frontend Engineering & Accessibility |
+| **Fundamentals of Communication** | upGrad | Aug 2026 | Professional Leadership |
+
+---
+
+<!-- Animated 10-Quote Sequence -->
 <div align="center">
   <a href="https://github.com/lakshyakurup">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=3000&color=2ECC71&center=true&vCenter=true&width=500&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22" alt="First, solve the problem. Then, write the code." />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=2000&color=2ECC71&center=true&vCenter=true&width=750&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22Simplicity+is+prerequisite+for+reliability.%22;%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22;%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it’s+bad.%22;%22The+best+way+to+predict+the+future+is+to+invent+it.%22;%22Talk+is+cheap.+Show+me+the+code.%22;%22Clean+code+always+looks+like+it+was+written+by+someone+who+cares.%22;%22Software+is+a+great+combination+between+art+and+engineering.%22;%22Any+fool+can+write+code+that+a+computer+can+understand.%22;%22Fix+the+cause%2C+not+the+symptom.%22" alt="10 Engineering Quotes" />
   </a>
 </div>
